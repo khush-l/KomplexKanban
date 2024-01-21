@@ -17,7 +17,7 @@ The only prerequisite is that the Catch2 framework is in the file which should a
 Clone the repository or download it from Github and unzip the folder
 
 ```
-git clone https://github.com/LasaACP/komplexkanbanv3-team72
+git clone https://github.com/khush-l/KomplexKanban/
 ```
 
 To check if it was properly installed, navigate to the [src](src/} folder and run the following command as a demo of the complex library:
